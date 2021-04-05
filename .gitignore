@@ -1,0 +1,4 @@
+*.jpack
+target/corr_simple_project
+.DS_Store
+.idea

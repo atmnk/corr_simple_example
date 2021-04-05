@@ -1,0 +1,8 @@
+`Simple`(){
+    objects.for(obj)=>{
+        let obj = object {
+            "name": fake("FirstName")
+        }
+        print text `Name <% obj  %>`
+    }
+}
